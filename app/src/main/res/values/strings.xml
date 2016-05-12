@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">简约の指南针</string>
+    <string name="correct_coord">当前经纬度：%s</string>
+    <string name="correct_altitude">当前海拔：%s</string>
+    <string name="cannot_get_location">无法获取定位信息，请点击重试</string>
+    <string name="check_location_permission">无法获取定位信息,请检查您的权限设置</string>
+    <string name="location_north">北纬 %s</string>
+    <string name="location_south">南纬 %s</string>
+    <string name="location_east">东经 %s</string>
+    <string name="location_west">西经 %s</string>
+    <string name="exit_toast">再按一次退出应用</string>
+
+</resources>
